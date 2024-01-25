@@ -8,4 +8,5 @@ Favara and Imbs (2015) use 1994-to-2005 county-level data to estimate the effect
 
 ## References
 Favara, G, Imbs, J (2015). [Credit supply and the price of housing](https://www.aeaweb.org/articles?id=10.1257/aer.20121416).
+
 de Chaisemartin, C, D'Haultfoeuille, X (2020b).  [Difference-in-Differences Estimators of Intertemporal Treatment Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3731856).
