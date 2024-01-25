@@ -2,6 +2,11 @@
 Datasets used in applications of de Chaisemartin and D'Haultfoeuille estimators.
 
 # Overview of the datasets
+## Vella and Verbeek (1998)
+[Download wagepan_twfeweights.dta](https://github.com/chaisemartinPackages/ApplicationData/raw/main/wagepan_twfeweights.dta)
+
+Vella and Verbeek (1998) estimated the effect of union membership on wages controlling for workers’ fixed effects in a sample of young American males from the NLSY followed from 1980 to 1987. Their results are revisited in Section V.C of de Chaisemartin and D'Haultfoeuille (2020a). 
+
 ## Favara and Imbs (2015)
 
 [Download favara_imbs_did_multiplegt_dyn.dta](https://github.com/chaisemartinPackages/ApplicationData/raw/main/favara_imbs_did_multiplegt_dyn.dta)
@@ -11,4 +16,8 @@ Favara and Imbs (2015) use 1994-to-2005 county-level data to estimate the effect
 # References
 Favara, G, Imbs, J (2015). [Credit supply and the price of housing](https://www.aeaweb.org/articles?id=10.1257/aer.20121416).
 
-de Chaisemartin, C, D'Haultfoeuille, X (2020b).  [Difference-in-Differences Estimators of Intertemporal Treatment Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3731856).
+de Chaisemartin, C, D'Haultfoeuille, X (2020a). [Two-Way Fixed Effects Estimators with Heterogeneous Treatment Effects](https://www.aeaweb.org/articles?id=10.1257/aer.20181169).
+
+de Chaisemartin, C, D'Haultfoeuille, X (2020b). [Difference-in-Differences Estimators of Intertemporal Treatment Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3731856).
+
+Vella, F, Verbeek, M (1998). [Whose Wages do Unions Raise? A Dynamic Model of Unionism and Wage Rate Determination for Young Men](http://www.jstor.org/stable/223257)
