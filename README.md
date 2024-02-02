@@ -27,7 +27,7 @@ de Chaisemartin, C, D'Haultfoeuille, X (2020a). [Two-Way Fixed Effects Estimator
 
 de Chaisemartin, C, D'Haultfoeuille, X (2020b). [Difference-in-Differences Estimators of Intertemporal Treatment Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3731856).
 
-de Chaisemartin, C, D'Haultfoeuille, X, Pasquier, F., Vazquez‐Bare, G. (2022). [Difference-in-Differences for Continuous Treatments and Instruments with Stayers](https://ssrn.com/abstract=4011782)
+de Chaisemartin, C, D'Haultfoeuille, X, Pasquier, F, Vazquez‐Bare, G (2022). [Difference-in-Differences for Continuous Treatments and Instruments with Stayers](https://ssrn.com/abstract=4011782)
 
 Li, S., Linn, J., Muehlegger, E. (2014). [Gasoline Taxes and Consumer Behavior](https://www.aeaweb.org/articles?id=10.1257/pol.6.4.302)
 
