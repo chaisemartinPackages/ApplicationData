@@ -20,7 +20,7 @@ Favara and Imbs (2015) use 1994-to-2005 county-level data to estimate the effect
 Li et al. (2014) use yearly 1966-to-2008 U.S. state-level panel data to jointly estimate the effect of gasoline taxes and tax-exclusive prices on consumption. de Chaisemartin et al. (2022) use this dataset to compute AOSS/WAOSS estimators of the effect of taxes on gasoline consumption and prices and IV-WAOSS estimators of the price elasticity of gasoline consumption.  
 
 # References
-<font size = "0.5">
+
 Favara, G, Imbs, J (2015). [Credit supply and the price of housing](https://www.aeaweb.org/articles?id=10.1257/aer.20121416).
 
 de Chaisemartin, C, D'Haultfoeuille, X (2020a). [Two-Way Fixed Effects Estimators with Heterogeneous Treatment Effects](https://www.aeaweb.org/articles?id=10.1257/aer.20181169).
@@ -32,4 +32,4 @@ de Chaisemartin, C, D'Haultfoeuille, X, Pasquier, F., Vazquez‐Bare, G. (2022).
 Li, S., Linn, J., Muehlegger, E. (2014). [Gasoline Taxes and Consumer Behavior](https://www.aeaweb.org/articles?id=10.1257/pol.6.4.302)
 
 Vella, F, Verbeek, M (1998). [Whose Wages do Unions Raise? A Dynamic Model of Unionism and Wage Rate Determination for Young Men](http://www.jstor.org/stable/223257)
-</font>
+
