@@ -29,7 +29,7 @@ de Chaisemartin, C, D'Haultfoeuille, X (2020b). [Difference-in-Differences Estim
 
 de Chaisemartin, C, D'Haultfoeuille, X, Pasquier, F, Vazquez‐Bare, G (2022). [Difference-in-Differences for Continuous Treatments and Instruments with Stayers](https://ssrn.com/abstract=4011782)
 
-Li, S., Linn, J., Muehlegger, E. (2014). [Gasoline Taxes and Consumer Behavior](https://www.aeaweb.org/articles?id=10.1257/pol.6.4.302)
+Li, S, Linn, J, Muehlegger, E (2014). [Gasoline Taxes and Consumer Behavior](https://www.aeaweb.org/articles?id=10.1257/pol.6.4.302)
 
 Vella, F, Verbeek, M (1998). [Whose Wages do Unions Raise? A Dynamic Model of Unionism and Wage Rate Determination for Young Men](http://www.jstor.org/stable/223257)
 
