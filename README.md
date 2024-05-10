@@ -30,7 +30,7 @@ Vella and Verbeek (1998) estimated the effect of union membership on wages contr
 
 [Download Divorce-Wolfers-AER.dta](https://github.com/chaisemartinPackages/ApplicationData/raw/main/Divorce-Wolfers-AER.dta)
 
-Wolfers (2006) studies the effect of Unilateral Divorce Laws on divorce rates using a 1956-1998 panel of US States. de Chaisemartin and D'Haultfoeuille (2023b) 
+Wolfers (2006) studies the effect of Unilateral Divorce Laws on divorce rates using a 1956-1998 panel of US States. de Chaisemartin and D'Haultfoeuille (2023b) use their data to test alternative estimators robust to heterogeneous effects.
 
 # References
 
