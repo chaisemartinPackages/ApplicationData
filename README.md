@@ -3,32 +3,23 @@ Datasets used in applications of de Chaisemartin and D'Haultfoeuille estimators.
 
 # Overview of the datasets
 
-## Favara and Imbs (2015)
-
-[Download favara_imbs_did_multiplegt_dyn.dta](https://github.com/chaisemartinPackages/ApplicationData/raw/main/favara_imbs_did_multiplegt_dyn.dta)
+## [Favara and Imbs (2015)](https://github.com/chaisemartinPackages/ApplicationData/raw/main/favara_imbs_did_multiplegt_dyn.dta)
 
 Favara and Imbs (2015) use 1994-to-2005 county-level data to estimate the effect of the number of regulations lifted on the growth of mortgages originated by banks, and on the growth of houses prices. Their findings are revisited in de Chaisemartin and D'Haultfoeuille (2020b).
 
-## Hotz and Xiao (2011)
-
-[Download Hotz_cleaned.dta](https://github.com/chaisemartinPackages/ApplicationData/raw/main/Hotz_cleaned.dta)
+## [Hotz and Xiao (2011)](https://github.com/chaisemartinPackages/ApplicationData/raw/main/Hotz_cleaned.dta)
 
 Hotz and Xiao (2011) use a panel of the 50 US states and the District of Columbia, in 1987, 1992, and 1997, to estimate the effect of daycare regulations on the demand for family home daycare. Part of their findings, namely Table 11, are replicated in de Chaisemartin and D'Haultfoeuille (2023a).
 
-## Li et al. (2014)
-
-[Download data_gazoline.dta](https://github.com/chaisemartinPackages/ApplicationData/raw/main/data_gazoline.dta)
+## [Li et al. (2014)](https://github.com/chaisemartinPackages/ApplicationData/raw/main/data_gazoline.dta)
 
 Li et al. (2014) use yearly 1966-to-2008 U.S. state-level panel data to jointly estimate the effect of gasoline taxes and tax-exclusive prices on consumption. de Chaisemartin et al. (2022) use this dataset to compute AOSS/WAOSS estimators of the effect of taxes on gasoline consumption and prices and IV-WAOSS estimators of the price elasticity of gasoline consumption.  
 
-## Vella and Verbeek (1998)
-[Download wagepan_twfeweights.dta](https://github.com/chaisemartinPackages/ApplicationData/raw/main/wagepan_twfeweights.dta)
+## [Vella and Verbeek (1998)](https://github.com/chaisemartinPackages/ApplicationData/raw/main/wagepan_twfeweights.dta)
 
 Vella and Verbeek (1998) estimated the effect of union membership on wages controlling for workers’ fixed effects in a sample of young American males from the NLSY followed from 1980 to 1987. Their results are revisited in Section V.C of de Chaisemartin and D'Haultfoeuille (2020a). 
 
-## Wolfers (2006)  
-
-[Download Divorce-Wolfers-AER.dta](https://github.com/chaisemartinPackages/ApplicationData/raw/main/Divorce-Wolfers-AER.dta)
+## [Wolfers (2006)](https://github.com/chaisemartinPackages/ApplicationData/raw/main/Divorce-Wolfers-AER.dta)
 
 Wolfers (2006) studies the effect of Unilateral Divorce Laws on divorce rates using a 1956-1998 panel of US States. de Chaisemartin and D'Haultfoeuille (2023b) use their data to test alternative estimators robust to heterogeneous effects.
 
