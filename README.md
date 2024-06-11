@@ -5,7 +5,7 @@ Datasets used in applications of de Chaisemartin and D'Haultfoeuille estimators.
 
 ## [Favara and Imbs (2015)](https://github.com/chaisemartinPackages/ApplicationData/raw/main/favara_imbs_did_multiplegt_dyn.dta)
 
-Favara and Imbs (2015) use 1994-to-2005 county-level data to estimate the effect of the number of regulations lifted on the growth of mortgages originated by banks, and on the growth of houses prices. Their findings are revisited in de Chaisemartin and D'Haultfoeuille (2024).
+Favara and Imbs (2015) use 1994-to-2005 county-level data to estimate the effect of the number of regulations lifted on the growth of mortgages originated by banks, and on the growth of houses prices. Their findings are revisited in de Chaisemartin and D'Haultfoeuille (2024a).
 
 ## [Gentzkow, Shapiro, and Sinkinson (2011)](https://github.com/chaisemartinPackages/ApplicationData/raw/main/voting_cnty_clean.dta) 
 
@@ -17,7 +17,11 @@ Hotz and Xiao (2011) use a panel of the 50 US states and the District of Columbi
 
 ## [Li et al. (2014)](https://github.com/chaisemartinPackages/ApplicationData/raw/main/data_gazoline.dta)
 
-Li et al. (2014) use yearly 1966-to-2008 U.S. state-level panel data to jointly estimate the effect of gasoline taxes and tax-exclusive prices on consumption. de Chaisemartin et al. (2022) use this dataset to compute AOSS/WAOSS estimators of the effect of taxes on gasoline consumption and prices and IV-WAOSS estimators of the price elasticity of gasoline consumption.  
+Li et al. (2014) use yearly 1966-to-2008 U.S. state-level panel data to jointly estimate the effect of gasoline taxes and tax-exclusive prices on consumption. de Chaisemartin et al. (2022) use this dataset to compute AOSS/WAOSS estimators of the effect of taxes on gasoline consumption and prices and IV-WAOSS estimators of the price elasticity of gasoline consumption. 
+
+## [Pierce and Schott (2016)](https://github.com/chaisemartinPackages/ApplicationData/raw/main/pierce_schott_didtextbook.dta)
+
+In Table 3, Pierce and Schott (2016) use a 1997-2002 and 2004-2005 panel of 103 US industries to study the effect of Permanent Normal Trade Relations with China on US manufacturing employment. Their findings are revisited in Section 6.1 of de Chaisemartin and D'Haultfoeuille (2024b).    
 
 ## [Vella and Verbeek (1998)](https://github.com/chaisemartinPackages/ApplicationData/raw/main/wagepan_twfeweights.dta)
 
@@ -37,7 +41,9 @@ de Chaisemartin, C, D'Haultfoeuille, X (2023a). [Two-way Fixed Effects and Diffe
 
 de Chaisemartin, C, D'Haultfoeuille, X (2023b). [Two-way Fixed Effects and Differences-in-Differences with Heterogeneous Treatment Effects: A Survey](https://dx.doi.org/10.2139/ssrn.3980758)
 
-de Chaisemartin, C, D'Haultfoeuille, X (2024). [Difference-in-Differences Estimators of Intertemporal Treatment Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3731856).
+de Chaisemartin, C, D'Haultfoeuille, X (2024a). [Difference-in-Differences Estimators of Intertemporal Treatment Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3731856).
+
+de Chaisemartin, C, D'Haultfoeuille, X (2024b). [Two-way Fixed Effects and Differences-in-Differences Estimators in Heterogeneous Adoption Designs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4284811).
 
 Favara, G, Imbs, J (2015). [Credit supply and the price of housing](https://www.aeaweb.org/articles?id=10.1257/aer.20121416).
 
@@ -46,6 +52,8 @@ Gentzkow, M, Shapiro, J, Sinkinson, M (2011). [The Effect of Newspaper Entry and
 Hotz, J, Xiao, M (2011). [The impact of regulations on the supply and quality of care in child care markets](https://www.aeaweb.org/articles?id=10.1257/aer.101.5.1775)
 
 Li, S, Linn, J, Muehlegger, E (2014). [Gasoline Taxes and Consumer Behavior](https://www.aeaweb.org/articles?id=10.1257/pol.6.4.302)
+
+Pierce, J, Schott, P (2016). [The Surprisingly Swift Decline of US Manufacturing Employment](https://www.aeaweb.org/articles?id=10.1257/aer.20131578)
 
 Vella, F, Verbeek, M (1998). [Whose Wages do Unions Raise? A Dynamic Model of Unionism and Wage Rate Determination for Young Men](http://www.jstor.org/stable/223257)
 
