@@ -49,8 +49,6 @@ Hotz, J, Xiao, M (2011). [The impact of regulations on the supply and quality of
 
 Li, S, Linn, J, Muehlegger, E (2014). [Gasoline Taxes and Consumer Behavior](https://www.aeaweb.org/articles?id=10.1257/pol.6.4.302)
 
-Pierce, J, Schott, P (2016). [The Surprisingly Swift Decline of US Manufacturing Employment](https://www.aeaweb.org/articles?id=10.1257/aer.20131578)
-
 Vella, F, Verbeek, M (1998). [Whose Wages do Unions Raise? A Dynamic Model of Unionism and Wage Rate Determination for Young Men](http://www.jstor.org/stable/223257)
 
 Wolfers (2006). [Did Unilateral Divorce Laws Raise Divorce Rates? A Reconciliation and New Results](https://www.aeaweb.org/articles?id=10.1257/aer.96.5.1802)
