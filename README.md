@@ -19,10 +19,6 @@ Hotz and Xiao (2011) use a panel of the 50 US states and the District of Columbi
 
 Li et al. (2014) use yearly 1966-to-2008 U.S. state-level panel data to jointly estimate the effect of gasoline taxes and tax-exclusive prices on consumption. de Chaisemartin et al. (2022) use this dataset to compute AOSS/WAOSS estimators of the effect of taxes on gasoline consumption and prices and IV-WAOSS estimators of the price elasticity of gasoline consumption. 
 
-## [Pierce and Schott (2016)](https://github.com/chaisemartinPackages/ApplicationData/raw/main/pierce_schott_didtextbook.dta)
-
-In Table 3, Pierce and Schott (2016) use a 1997-2002 and 2004-2005 panel of 103 US industries to study the effect of Permanent Normal Trade Relations with China on US manufacturing employment. Their findings are revisited in Section 6.1 of de Chaisemartin and D'Haultfoeuille (2024b).    
-
 ## [Vella and Verbeek (1998)](https://github.com/chaisemartinPackages/ApplicationData/raw/main/wagepan_twfeweights.dta)
 
 Vella and Verbeek (1998) estimated the effect of union membership on wages controlling for workers’ fixed effects in a sample of young American males from the NLSY followed from 1980 to 1987. Their results are revisited in Section V.C of de Chaisemartin and D'Haultfoeuille (2020). 
